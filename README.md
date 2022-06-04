@@ -1,3 +1,3 @@
 # Budget-Planner
 ## Participants :
-``` **CharafEddine Belyazid**  __Abderahman Kelmoune__ Mouad Kamil __> Amine Khlidi ```
+``` **CharafEddine Belyazid ** **Abderahman Kelmoune**  **Mouad Kamil** **Amine Khlidi** ```
