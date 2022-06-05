@@ -1,7 +1,7 @@
 # Budget-Planner
 ## Participants :
-**CharafEddine Belyazid**
-**Abderahman Kelmoune**  
-**Mouad Kamil** 
-**Amine Khlidi** 
+**CharafEddine Belyazid** __
+**Abderahman Kelmoune**   __
+**Mouad Kamil**           __
+**Amine Khlidi**          __
 **Siham Touzani**
